@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.DS_Store
+.idea/
+.vscode/
+.ipynb_checkpoints/
+.pytest_cache/
+records.db
+.tts_cache/
+*.mp3
+*.wav
+*.aiff

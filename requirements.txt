@@ -1,0 +1,4 @@
+streamlit>=1.36
+gtts>=2.5
+pyttsx3>=2.90
+pydub>=0.25
